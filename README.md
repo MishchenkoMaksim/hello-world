@@ -2,4 +2,4 @@
 
 Hi, Humans!
 
-I am Maksim, and I like a programming!
+I am Maksim, and I like programming!
